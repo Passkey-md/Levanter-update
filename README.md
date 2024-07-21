@@ -49,9 +49,9 @@ Simple deployment
 
 9. watch carefully after you get session I'd  Edit below script by adding your session I'd and your number and some other necessary things
 
-             echo "SESSION_ID = Session_Id
+             echo "SESSION_ID = put session I'd here
              PREFIX = .
-             STICKER_PACKNAME = Muindi
+             STICKER_PACKNAME = Phantom
              ALWAYS_ONLINE = true
              RMBG_KEY = null
              LANGUAG = en
@@ -60,8 +60,8 @@ Simple deployment
              BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
              MAX_UPLOAD = 200
              REJECT_CALL = true
-             SUDO = 254739642355,254115783375
-             TZ = Africa/Nairobi
+             SUDO = 2348108395270
+             TZ = Africa/Lagos
              VPS = true
              AUTO_STATUS_VIEW = no-dl
              SEND_READ = true
@@ -86,7 +86,7 @@ Simple deployment
 
 
 
-             INCASE BOT STOP OR YOU MISTAKELY CLOSE CONNECTION FOLLOW BELOW 👇 STEP
+     INCASE BOT STOP OR YOU MISTAKELY CLOSE CONNECTION FOLLOW BELOW 👇 STEP
 1. open Termux again and copy and paste all command below 👇
     
             bash start-ubuntu.sh
