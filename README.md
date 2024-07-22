@@ -88,8 +88,11 @@ Simple deployment
 
      INCASE BOT STOP OR YOU MISTAKELY CLOSE CONNECTION FOLLOW BELOW 👇 STEP
 1. open Termux again and copy and paste all command below 👇
-    
+            
+    first command
             bash start-ubuntu.sh
+
+    second command
             cd botName
             pm2 start . --name botName --attach --time
 
